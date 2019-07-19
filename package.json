@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "gatsby": "^2.13.1",
-    "gatsby-theme-ultronele": "^1.0.2"
+    "gatsby-theme-ultronele": "^1.0.3"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
