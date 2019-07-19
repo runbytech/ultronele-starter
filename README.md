@@ -56,8 +56,6 @@ Just for a couple of commands, you will have your own LMS, here we go:
 
 > $ cd my-ultronele
 
-> $ npm i
-
 > $ gatsby develop
 
 Your site is now running at http://localhost:8000
