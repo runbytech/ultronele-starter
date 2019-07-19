@@ -33,7 +33,7 @@ is [HERE!](https://ultronele.netlify.com/)
 * mobile screen support
 
 
-## Prerequisite tools
+## Prerequisite tools installation
 
 * node
 * npm
