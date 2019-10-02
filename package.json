@@ -19,6 +19,8 @@
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
+    "inquirer": "^6.2.2",
+    "inquirer-directory": "^2.1.0",
     "prettier": "^1.18.2",
     "plop": "^2.3.0"
   }
