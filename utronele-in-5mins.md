@@ -6,8 +6,7 @@ Ultronele in 5 minutes
 
 ## What's that?
 
-
-- A light-weight, fast, simple, responsive e-learning software
+- A small, light-weight, easy to use, responsive e-learning software
 - For tutors, teachers, instructors, small business
 - Free, small cost of customisation service
 
@@ -34,7 +33,6 @@ $ npm run generate
 - Category generator
 - Tutorial generator
 - Quiz generator
-- Page generator
 
 ## Deployment
 

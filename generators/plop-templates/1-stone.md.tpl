@@ -4,7 +4,7 @@ date: {{date_1}}
 author: {{author}}
 tutorial: {{title}}
 type: tutorial section
-cover: /img/chamuditha-dilhan-1335612-unsplash-278x120.png
+cover: ../../../assets/img/chamuditha-dilhan-1335612-unsplash-278x120.png
 emphasis: {{emphasis}}
 tags: 
   - questions
