@@ -18,7 +18,7 @@ module.exports = {
     },
     menus: [
       {name: 'HOME', url: '/'},
-      {name: 'PRODUCT1', url: '/product'},
+      {name: 'PRODUCT12', url: '/product'},
       {name: 'SERVICE', url: '/service'},
       {name: 'USER GUIDE', url: '/userguide'},
       {name: 'ROADMAP', url: '/roadmap'},
@@ -27,7 +27,7 @@ module.exports = {
   },
 
 
-  pathPrefix: "/getit0.github.io",
+ 
 
 
 
