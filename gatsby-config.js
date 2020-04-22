@@ -25,6 +25,12 @@ module.exports = {
       {name: 'TEAM', url: '/team'},
     ] 
   },
+
+
+  pathPrefix: "/getit0.github.io",
+
+
+
   plugins: [
     {
       resolve: "gatsby-theme-ultronele",
