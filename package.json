@@ -3,7 +3,17 @@
   "name": "demo",
   "version": "0.1.0",
   "license": "MIT",
+
+
+
   "scripts": {
+
+
+ "deploy": "gatsby build && gh-pages -d public -b master",
+  
+
+
+
     "build": "gatsby build",
     "develop": "gatsby develop",
     "generate": "plop --plopfile ./generators/plopfile.js",
