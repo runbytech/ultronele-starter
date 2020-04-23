@@ -7,7 +7,7 @@
 
 module.exports = {
 
-pathPrefix: "/ultronele-starter",
+pathPrefix: "/getit0.github.io",
 
   siteMetadata: {
     title: "Gatsby Theme Ultronele Demo",
