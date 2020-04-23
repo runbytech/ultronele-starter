@@ -6,6 +6,9 @@
  */
 
 module.exports = {
+
+pathPrefix: "/ultronele-starter",
+
   siteMetadata: {
     title: "Gatsby Theme Ultronele Demo",
     author: `liwenzhi`,
@@ -30,6 +33,15 @@ module.exports = {
       resolve: "gatsby-theme-ultronele",
       options: {
         // contentPath: `content`
+
+
+
+
+  
+
+
+
+
       }
     }
   ],
